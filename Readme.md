@@ -1,7 +1,7 @@
 # Личный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Роман Руренко](https://up.htmlacademy.ru/ecmascript/7/user/603391).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
